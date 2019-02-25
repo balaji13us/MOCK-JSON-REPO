@@ -8,4 +8,5 @@ For more details refer to
 https://my-json-server.typicode.com/balaji13us/MOCK-JSON-REPO/
 
 
-update db.json file to add more resources
+1. update db.json file to add more resources
+2. Sample User Data generated using https://next.json-generator.com/
