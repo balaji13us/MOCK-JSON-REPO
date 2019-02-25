@@ -6,3 +6,6 @@ https://my-json-server.typicode.com/balaji13us/MOCK-JSON-REPO/users
 
 For more details refer to 
 https://my-json-server.typicode.com/balaji13us/MOCK-JSON-REPO/
+
+
+update db.json file to add more resources
