@@ -339,5 +339,35 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "health" : {
+    "app1" : {
+      "e1": {
+        "commitId": "1234"
+      },
+      "e2": {
+        "commitId": "1234"
+      },
+      "e1a": {
+        "commitId": "1234"
+      },
+      "e2a": {
+        "commitId": "12345"
+      }
+    },
+    "app2" : {
+      "e1": {
+        "commitId": "1234"
+      },
+      "e2": {
+        "commitId": "1234"
+      },
+      "e1a": {
+        "commitId": "1234"
+      },
+      "e2a": {
+        "commitId": "12345"
+      }
+    }
   }
 }
